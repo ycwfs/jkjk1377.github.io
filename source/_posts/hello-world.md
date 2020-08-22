@@ -1,11 +1,11 @@
 ---
 title: 欢迎来到我的blog
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+Welcome to [Code city](http://kingpower.monster/)! 这是一个基于github和hexo框架搭建的博客. Check [联系我](https://www.google.com/intl/zh-CN/gmail/about/#) for more info. 如果您有好的建议可以邮箱联系我, you can find the answer in [bobtony1377@gmail.com](https://www.google.com/intl/zh-CN/gmail/about/#) or you can ask me on [GitHub](https://github.com/JKJK1377).
 
-## Quick Start
+## Code
 
-### Create a new post
+### Java
 
 ``` bash
 $ hexo new 'android studio'
@@ -13,7 +13,7 @@ $ hexo new 'android studio'
 
 More info: [Writing](https://hexo.io/docs/writing.html)
 
-### Run server
+### C++
 
 ``` bash
 $ hexo server
@@ -21,7 +21,7 @@ $ hexo server
 
 More info: [Server](https://hexo.io/docs/server.html)
 
-### Generate static files
+### C#
 
 ``` bash
 $ hexo generate
@@ -29,7 +29,7 @@ $ hexo generate
 
 More info: [Generating](https://hexo.io/docs/generating.html)
 
-### Deploy to remote sites
+### python
 
 ``` bash
 $ hexo deploy
