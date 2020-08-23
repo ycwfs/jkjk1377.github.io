@@ -1,5 +1,5 @@
 ---
-title: Python之路
+title: Python之路!!
 date: 2020-08-23 12:13:42
 tags:
 ---
