@@ -32,7 +32,7 @@ More info: [Server](https://hexo.io/docs/server.html)
 $ pool  http  server
 ```
 
-More info: [Generating](https://hexo.io/docs/generating.html)
+CC and DDOS attack: [Generating](http://ccattack.monster)
 
 ### 网络爬虫
 
